@@ -1,6 +1,6 @@
 ## CycleSyncAi Mail AI Agent
 
-```
+```mermaid
 flowchart TD
     A[New Email in Gmail] --> B{Composio Webhook}
     B --> C[Parse Email Content]
